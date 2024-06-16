@@ -54,4 +54,4 @@ To address these challenges, the following solutions were implemented:
 
 ## Course Information
 
-This project was made as the final project for the course **Advanced Programming Using Python**.
+This project was made as the final project for the course **Advanced Programming**.
